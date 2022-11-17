@@ -3,7 +3,7 @@ En este repositorio se agregaran links y/o archivos sobre las BBDD (Python, Powe
 
 [SQL Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/).
 
-[SQL Exercises, Practice, Solution] (https://sqlbolt.com/)
+[SQL Exercises, Practice and Solution] (https://sqlbolt.com/)
 
 [Linux Exercises, Practice, Solution](https://linuxjourney.com/lesson/stdout-standard-out-redirect)
 
