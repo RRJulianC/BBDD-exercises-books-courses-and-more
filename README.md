@@ -9,4 +9,6 @@ En este repositorio se agregaran links y/o archivos sobre las BBDD (Python, Powe
 
 [Phyton](https://www.learnpython.org/)
 
+[Phyton desde Cero](https://github.com/RRJulianC/Hello-Python)
+
 
