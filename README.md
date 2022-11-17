@@ -1,9 +1,9 @@
 # BBDD-exercises-books-courses-and-more
 En este repositorio se agregaran links y/o archivos sobre las BBDD (Python, Power BI, Excel, Linux, R, & SQL)
 
-[Curso Analisis de DAtos Google](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
+[Curso Analisis de Datos Google](https://www.coursera.org/professional-certificates/analisis-de-datos-de-google)
 
-[Curso Analisis de DAtos IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst?irclickid=SIjxONxJAxyNT9ryNpT75wVDUkDSZuyDQRoU0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
+[Curso Analisis de Datos IBM](https://www.coursera.org/professional-certificates/ibm-data-analyst?irclickid=SIjxONxJAxyNT9ryNpT75wVDUkDSZuyDQRoU0w0&irgwc=1&utm_medium=partners&utm_source=impact&utm_campaign=2946137&utm_content=b2c)
 
 [SQL Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/).
 
