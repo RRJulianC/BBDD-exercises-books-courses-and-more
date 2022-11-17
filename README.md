@@ -2,3 +2,4 @@
 En este repositorio se agregaran links y/o archivos sobre las BBDD (Python &amp; SQL)
 
 [MySQL Exercises, Practice, Solution](https://www.w3resource.com/mysql-exercises/)
+[Linux Exercises, Practice, Solution](https://linuxjourney.com/lesson/stdout-standard-out-redirect)
