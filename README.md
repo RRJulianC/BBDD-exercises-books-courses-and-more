@@ -17,4 +17,4 @@ En este repositorio se agregaran links y/o archivos sobre las BBDD (Python, Powe
 
 [Phyton desde Cero](https://github.com/RRJulianC/Hello-Python)
 
-
+[Visualitation helper](https://public.tableau.com/app/profile/andy.kriebel/viz/VisualVocabulary/VisualVocabulary) 
